@@ -2,6 +2,7 @@
 
 
   ### Hi there, I'm Beray Emirhan 😊
+  
   #### Reach out to me !
 
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
@@ -12,6 +13,10 @@
   
   <br />
   <br />
+  
+  #### Teach I Use
+  
+  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c#.png" width="25" height="25">
   
   
 
