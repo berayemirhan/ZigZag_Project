@@ -5,8 +5,8 @@
   
   #### Reach out to me !
 
-  [<img aLign="left"width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
-  [<img aLign="left" width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" aLign="Left" />][twitter]
+  [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
+  [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" aLign="Left" />][twitter]
   
   [instagram]:https://www.instagram.com/sensoyberayy/
   [twitter]:https://twitter.com/SensoyBerayy
