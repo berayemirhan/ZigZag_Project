@@ -4,12 +4,16 @@
   ### Hi there, I'm Beray Emirhan 😊
   
   #### Reach out to me
+  <font color="red">Reach out to me </font>
   
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" aLign="Left" />][twitter]
   
   [instagram]:https://www.instagram.com/sensoyberayy/
   [twitter]:https://twitter.com/SensoyBerayy
+  
+  <br />
+  <br />
   
   
 
