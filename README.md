@@ -20,6 +20,9 @@
   <img aLign="Left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
   <img aLign="Left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25">
   
+  <br />
+  <br />
+  
    #### Game İmage Packet 🎮
   
    <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/Blokİmage.png" width="400" height="250">
