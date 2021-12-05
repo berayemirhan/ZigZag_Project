@@ -4,7 +4,7 @@
   ### Hi there, I'm Beray Emirhan 😊
   
   #### Reach out to me
-  <font color="red">Reach out to me </font>
+  <font color="pink">Reach out to me </font>
   
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" aLign="Left" />][twitter]
