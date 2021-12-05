@@ -5,7 +5,7 @@
   
   ### Reach out to me
   
-  [<img width="22" src="https://unpkg.com/simple-icons@v6/Instagram.svg" aLign="left" />][instagram]
+  [<img width="22" src="https://unpkg.com/simple-icons@v6/Twitter.svg" aLign="left" />][instagram]
   
   [instagram]:https://www.instagram.com/sensoyberayy/
   [twitter]:https://twitter.com/SensoyBerayy
