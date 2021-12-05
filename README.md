@@ -23,7 +23,7 @@
   <br />
   <br />
   
-   #### Game İmage Packet 🎮
+   ### Game İmage Packet 🎮
   
   <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/İmage.png" width="600" height="300">
   <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/Blokİmage.png" width="600" height="300">
