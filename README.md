@@ -3,7 +3,7 @@
 
   ### Hi there, I'm Beray Emirhan 😊
 
-  <font color=Red  #### Reach out to me />
+  <font color=Red>#### Reach out to me />
  
   
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
