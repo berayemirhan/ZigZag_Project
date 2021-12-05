@@ -24,6 +24,7 @@
   <br />
   
    ### Game İmage Packet 🎮
+  <br />
   
   <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/İmage.png" width="600" height="300">
   <br />
