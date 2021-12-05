@@ -4,6 +4,13 @@
   ### Hi there, I'm Beray Emirhan 😊
   
   #### Reach out to me
+  
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
  
   
   [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" aLign="Left" />][instagram]
