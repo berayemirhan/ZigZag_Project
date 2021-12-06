@@ -2,6 +2,7 @@
 
 
   ### Hi there, I'm Beray Emirhan 😊
+  *İntern Student*
   
   #### Reach out to me !
 
